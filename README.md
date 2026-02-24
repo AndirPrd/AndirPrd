@@ -1,78 +1,24 @@
-<!-- 🔥 FINAL BOSS PROFILE 🔥 -->
+<h1 align="center">🎮 AndirPrd</h1>
+<h3 align="center">Roblox Game Developer | Python & Lua Learner</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=ANDIRPRD&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h1 align="center">⚡ Roblox Game Developer | Future Game Studio Owner ⚡</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Immersive+Roblox+Worlds;Lua+Scripter+In+Progress;Python+Problem+Solver;Future+Top+Game+Creator;Football+Enthusiast+⚽"/>
+  🚀 Passionate about building immersive Roblox experiences <br>
+  ⚽ Football lover | 🎯 Future Game Dev Pro
 </p>
 
 ---
 
-## 👑 DEVELOPER PROFILE
+## 🧑‍💻 About Me
 
-```bash
-> whoami
-AndirPrd
-
-> role
-Roblox Game Developer
-
-> current_learning
-Lua & Python
-
-> mission
-Create high-quality, addictive Roblox experiences
-
-> mindset
-Discipline. Creativity. Consistency.
-```
+- 🔭 Currently working on **Roblox Game Development**
+- 🤝 Open to collaborating on **Game Projects**
+- 🧠 Learning **Python** & **Lua**
+- 💬 Ask me anything about **gaming & game mechanics**
+- ⚡ Fun fact: I could talk about football all day
 
 ---
 
-## 🛠️ TECH ARSENAL
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,python,git,github,vscode&theme=dark"/>
-</p>
-
----
-
-## 📊 POWER STATS
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndirPrd&theme=tokyonight&show_icons=true&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AndirPrd&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndirPrd&theme=tokyonight&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndirPrd&theme=matrix&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
-
-## 🎯 2026 MASTER PLAN
-
-- 🚀 Release a viral Roblox game  
-- 🧠 Master advanced Lua scripting  
-- 🐍 Strengthen Python problem solving  
-- 🤝 Collaborate with elite developers  
-- 💰 Build monetized game systems  
-
----
-
-## 🌐 CONNECT WITH ME
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/Clokopucs">
@@ -85,14 +31,46 @@ Discipline. Creativity. Consistency.
 
 ---
 
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AndirPrd&icon=6&color=12"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndirPrd&theme=tokyonight&hide_border=true&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndirPrd&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  ⚔️ "Code. Build. Dominate." ⚔️
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndirPrd&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 
+---
+
+## 🏆 Achievements
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AndirPrd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Publish a successful Roblox game
+- 🧠 Master Lua scripting
+- 🐍 Improve Python problem-solving skills
+- 🤝 Collaborate with at least 3 developers
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AndirPrd&icon=5&color=6"/>
 </p>
